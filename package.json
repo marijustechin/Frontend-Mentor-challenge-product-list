@@ -1,0 +1,31 @@
+{
+  "name": "product-list-mentor",
+  "version": "1.0.0",
+  "description": "project description",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marijustechin/Frontend-Mentor-challenge-product-list.git"
+  },
+  "keywords": [
+    "tailwind",
+    "frontend",
+    "mentor",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "marijustechin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marijustechin/Frontend-Mentor-challenge-product-list/issues"
+  },
+  "homepage": "https://github.com/marijustechin/Frontend-Mentor-challenge-product-list#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
